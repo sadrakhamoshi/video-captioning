@@ -1,19 +1,14 @@
-asgiref==3.5.2
-backports.zoneinfo==0.2.1
-django-cors-headers==3.13.0
-djangorestframework==3.14.0
-pytz==2022.4
-sqlparse==0.4.3
-tzdata==2022.4
 absl-py==1.3.0
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
+asgiref==3.5.2
 asttokens==2.0.8
 astunparse==1.6.3
 attrs==22.1.0
 Babel==2.10.3
 backcall==0.2.0
+backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bleach==5.0.1
 cachetools==5.2.0
@@ -24,6 +19,9 @@ colorama==0.4.5
 debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
+Django==4.1.2
+django-cors-headers==3.13.0
+djangorestframework==3.14.0
 entrypoints==0.4
 executing==1.1.1
 fastjsonschema==2.16.2
@@ -35,6 +33,8 @@ google-pasta==0.2.0
 grpcio==1.49.1
 h5py==3.7.0
 idna==3.4
+importlib-metadata==5.0.0
+importlib-resources==5.10.0
 ipykernel==6.16.0
 ipython==8.5.0
 ipython-genutils==0.2.0
@@ -71,6 +71,7 @@ packaging==21.3
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
+pkgutil_resolve_name==1.3.10
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31
 protobuf==3.19.6
@@ -83,6 +84,7 @@ Pygments==2.13.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
+pytz==2022.4
 pywin32==304
 pywinpty==2.0.8
 pyzmq==24.0.1
@@ -93,6 +95,7 @@ Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.3.0
 soupsieve==2.3.2.post1
+sqlparse==0.4.3
 stack-data==0.5.1
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
@@ -108,9 +111,11 @@ tornado==6.2
 tqdm==4.64.1
 traitlets==5.4.0
 typing_extensions==4.4.0
+tzdata==2022.4
 urllib3==1.26.12
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.4.1
 Werkzeug==2.2.2
 wrapt==1.14.1
+zipp==3.9.0
